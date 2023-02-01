@@ -6,6 +6,7 @@ brew "coreutils"
 brew "curl"
 brew "ffmpeg"
 brew "git"
+brew "hugo"
 brew "mas"
 brew "speedtest-cli"
 brew "testdisk"
@@ -14,10 +15,9 @@ brew "ykman"
 brew "youtube-dl"
 cask "appcleaner"
 cask "anki"
+cask "balenaetcher"
 cask "bitwarden"
-cask "brave-browser"
 cask "cryptomator"
-cask "disk-inventory-x"
 cask "eloston-chromium"
 cask "firefox"
 cask "gpg-suite-no-mail"
@@ -26,30 +26,26 @@ cask "izotope-product-portal"
 cask "keepassxc"
 cask "libreoffice"
 cask "macfuse"
-cask "multipass"
 cask "pcloud-drive"
-cask "protonvpn"
 cask "raspberry-pi-imager"
 cask "signal"
 cask "soundsource"
-cask "spotify"
 cask "standard-notes"
 cask "texpad"
 cask "texshop"
 cask "tor-browser"
 cask "transmission"
 cask "trezor-suite"
-cask "utm"
 cask "visual-studio-code"
 cask "vlc"
 cask "zotero"
 mas "1Password", id: 443987910
 mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
-mas "Delay-Start", id: 591620786
 mas "Disk Speed Test", id: 425264550
 mas "GoodNotes", id: 1444383602
 mas "iA Writer", id: 775737590
+mas "Invoice Ninja", id: 1503970375
 mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
@@ -59,7 +55,6 @@ mas "Pixelmator Pro", id: 1289583905
 mas "Reeder", id: 880001334
 mas "Simplenote", id: 692867256
 mas "Soulver 2", id: 413965349
-mas "Subnet 64", id: 1348388159
 mas "Table Tool", id: 1122008420
 mas "Tailscale", id: 1475387142
 mas "Theine", id: 955848755
