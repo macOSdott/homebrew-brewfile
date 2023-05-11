@@ -18,25 +18,25 @@ cask "anki"
 cask "balenaetcher"
 cask "bitwarden"
 cask "cryptomator"
+cask "disk-inventory-x"
 cask "eloston-chromium"
 cask "firefox"
 cask "gpg-suite-no-mail"
-cask "intellij-idea-ce"
 cask "izotope-product-portal"
 cask "keepassxc"
-cask "libreoffice"
 cask "macfuse"
+cask "obsidian"
 cask "pcloud-drive"
 cask "raspberry-pi-imager"
 cask "signal"
 cask "soundsource"
 cask "standard-notes"
-cask "texpad"
-cask "texshop"
+cask "synologyassistant"
+cask "texifier"
 cask "tor-browser"
 cask "transmission"
 cask "trezor-suite"
-cask "visual-studio-code"
+cask "vscodium"
 cask "vlc"
 cask "zotero"
 mas "1Password", id: 443987910
@@ -54,7 +54,6 @@ mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder", id: 880001334
 mas "Simplenote", id: 692867256
-mas "Soulver 2", id: 413965349
 mas "Table Tool", id: 1122008420
 mas "Tailscale", id: 1475387142
 mas "Theine", id: 955848755
