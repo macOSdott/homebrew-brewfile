@@ -43,6 +43,7 @@ cask "transmission"
 cask "trezor-suite"
 cask "vscodium"
 cask "vlc"
+cask "yubico-yubikey-manager"
 mas "1Password", id: 443987910
 mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
