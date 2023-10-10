@@ -18,7 +18,7 @@ cask "appcleaner"
 cask "anki"
 cask "balenaetcher"
 cask "bitwarden"
-cask "cryptomator"
+cask "deepl"
 cask "disk-inventory-x"
 cask "eloston-chromium"
 cask "firefox"
@@ -36,7 +36,6 @@ cask "soundsource"
 cask "standard-notes"
 cask "syncthing"
 cask "synologyassistant"
-cask "synology-drive"
 cask "texifier"
 cask "tor-browser"
 cask "transmission"
@@ -44,7 +43,6 @@ cask "trezor-suite"
 cask "vscodium"
 cask "vlc"
 cask "yubico-yubikey-manager"
-mas "1Password", id: 443987910
 mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
 mas "Disk Speed Test", id: 425264550
@@ -58,7 +56,6 @@ mas "Numbers", id: 409203825
 mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder 5", id: 1529448980
-mas "Simplenote", id: 692867256
 mas "Table Tool", id: 1122008420
 mas "Tailscale", id: 1475387142
 mas "Theine", id: 955848755
