@@ -58,6 +58,4 @@ mas "Numbers", id: 409203825
 mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder 5", id: 1529448980
-mas "Table Tool", id: 1122008420
 mas "Tailscale", id: 1475387142
-mas "Theine", id: 955848755
