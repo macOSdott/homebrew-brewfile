@@ -44,7 +44,6 @@ cask "yubico-authenticator"
 cask "yubico-yubikey-manager"
 mas "Brother P-touch Editor", id: 1453365242
 mas "Disk Speed Test", id: 425264550
-mas "GoodNotes", id: 1444383602
 mas "iA Writer", id: 775737590
 mas "Invoice Ninja", id: 1503970375
 mas "iWriter Pro", id: 893199093
