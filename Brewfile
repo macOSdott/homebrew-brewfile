@@ -43,7 +43,6 @@ cask "vlc"
 cask "yubico-authenticator"
 cask "yubico-yubikey-manager"
 mas "Brother P-touch Editor", id: 1453365242
-mas "ChronoSync Express", id: 904801687
 mas "Disk Speed Test", id: 425264550
 mas "GoodNotes", id: 1444383602
 mas "iA Writer", id: 775737590
