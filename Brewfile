@@ -50,3 +50,4 @@ mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder 5", id: 1529448980
 mas "Tailscale", id: 1475387142
+mas "Things 3", id: 904280696
